@@ -12,7 +12,7 @@ background:linear-gradient(141deg, #0C5B5F 0%, rgba(0, 212, 153, 0.77) 75%);
     left: 400px;
 }
 .song-image {
-    background-image: url(Images/AllWeKnow.jpg);
+    background-Image: url(Images/AllWeKnow.jpg);
     width: 450px;
     height: 250px;
     top: 10px;
